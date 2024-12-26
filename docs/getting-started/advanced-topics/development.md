@@ -47,6 +47,12 @@ Welcome to the **Open WebUI Development Setup Guide!** Whether you're a novice o
      npm install
      ```
 
+      - Build frontend server:
+
+     ```bash
+     npm run build
+     ```
+
    - Start the frontend server:
 
      ```bash
